@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part09_11.Herds" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="MainProgram" />
+    <module name="Part09_11.Herds" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
