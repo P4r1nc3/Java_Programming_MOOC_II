@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part10_03.PositiveNumbers" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PositiveNumbers" />
+    <module name="Part10_03.PositiveNumbers" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
