@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part13_01.MyFirstApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="myFirstApplication.MyFirstApplication" />
+    <module name="Part13_01.MyFirstApplication" />
+    <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/Desktop/javafx-sdk-18.0.2/lib --add-modules javafx.controls,javafx.fxml" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
